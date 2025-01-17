@@ -29,3 +29,24 @@ management.
 
 In the context of infrastructure provisioning (like in DevOps or IT), the word "சேர்க்கை" or "வழங்கல்" can be used to indicate the act of setting up, supplying, 
 or configuring the necessary infrastructure or resources.
+
+Verifying knowledge in Devops
+-------------------------------
+Creating knowledge
+First win is build
+Second win is tests
+The big win is Automated deployment
+
+Automated unit tests - using test in script - in pipeline it automates tests
+Static analysis
+Automated deployment
+
+Course summary
+--------------
+Lean software development
+Toyota production system
+Working with builds
+Automated deployment
+Cultural elements of devops adoption
+
+
