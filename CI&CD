@@ -1,0 +1,8 @@
+SDLC-Software Development Lifecycle
+Defining the objective aka identify the problem(gathering requirements)
+Planning - determine the cost and resources needed to implement a feature,also consider the risks involved
+Designing - Planning the solution's architecture includes client and server,DB structure,Code's design pattern
+Coding - code should be as per design plan not for the code to look like it was coded by single mind(i.e. organized source code)
+Testing - testing within team and beta testers etc
+Deploying - Customer interviews,Concierge test,customer misbehaviour
+
