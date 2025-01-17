@@ -1,0 +1,31 @@
+Principles of Lean development
+-------------------------------
+If you aim at speed, you may get speed, but you'll get waste. If you aim at the elimination of waste, you'll eliminate waste and get speed.
+
+-> Write the test first
+-> Nothing is error-free
+-> Test first makes the code more testable and makes you focus on what you can know  for sure
+
+The seven Principles
+---------------------
+Eliminate waste
+Build quality in
+Create knowledge
+Defer commitment
+Deliver fast
+Improve flow
+Optimize the whole system
+Empower people or respect people
+Focus on customer value
+Continuous improvement
+
+Iac - Infrastructure as code
+------------------------------
+
+Infrastructure as Code (IaC) is a foundational practice in modern DevOps that allows for the automation, consistency, and scalability of infrastructure management. 
+It eliminates manual intervention, reduces errors, and enables faster, more reliable software delivery by treating infrastructure as software.
+By using IaC, teams can provision and manage infrastructure just like they would manage code, ensuring repeatability, versioning, and efficiency in their infrastructure 
+management.
+
+In the context of infrastructure provisioning (like in DevOps or IT), the word "சேர்க்கை" or "வழங்கல்" can be used to indicate the act of setting up, supplying, 
+or configuring the necessary infrastructure or resources.
